@@ -1,4 +1,7 @@
-# My EEE Learning Journey
+# ⚡ EEE Learning Journey
+
+> Learning Electrical Engineering with Code + Real Applications 🚀
+
 
 Hi, I am a 1st year Electrical and Electronics Engineering student.
 
